@@ -178,7 +178,7 @@ header button {
     padding: 0 2rem;
     position: relative;
     max-height: 100vh;
-    overflow: auto;
+    overflow: scroll;
     margin-top: 45px;
 }
 
